@@ -1,0 +1,10 @@
+nohup python train_compact_themal_model.py --case 1 --train > compactLog1 &
+nohup python train_compact_themal_model.py --case 2 --train > compactLog2 &
+nohup python train_compact_themal_model.py --case 3 --train > compactLog3 &    
+nohup python train_compact_themal_model.py --case 4 --train > compactLog4 &
+nohup python train_compact_themal_model.py --case 5 --train > compactLog5 &
+nohup python train_compact_themal_model.py --case 6 --train > compactLog6 &
+nohup python train_compact_themal_model.py --case 7 --train > compactLog7 &
+nohup python train_compact_themal_model.py --case 8 --train > compactLog8 &
+nohup python train_compact_themal_model.py --case 9 --train > compactLog9 &
+nohup python train_compact_themal_model.py --case 10 --train > compactLog10 &
