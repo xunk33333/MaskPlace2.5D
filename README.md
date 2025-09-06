@@ -1,5 +1,5 @@
 # MaskPlace2.5D 
-Due to intellectual property restrictions, we are unable to directly provide the core code of MaskPlace2.5D. Howere this repository contains a PyTorch implementation of the compact thermal model from the paper:
+Due to intellectual property restrictions, we are unable to directly provide the core code of MaskPlace2.5D. In the future, we will provide executable files for our leakage-aware thermal model to enable researchers to verify and extend it. However this repository contains a PyTorch implementation of the compact thermal model from the paper:
 
 **"ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC"**
 
@@ -19,7 +19,6 @@ Thanks to ATPlace2.5D's open-source repository: https://github.com/Brilight/ATPl
 ## 📁 Project Structure
 
 ```
-atplace/
 ├── cases/                    # Test cases with chiplet layouts
 │   ├── Case1/
 │   │   ├── Case1_1.pl       # Layout file 1
